@@ -1,8 +1,8 @@
 {
-  "name": "subzero-md",
-  "version": "6.0.0",
-  "description": "SUBZERO-MD V6 — A fast, secure, and modular WhatsApp Multi-Device bot built for performance, scalability, and reliability.",
-  "author": "Mr Frank OFC (Darrell Mucheri)",
+  "name": "waguri kaoruko-md",
+  "version": "7.2.4 (BIG UPD)",
+  "description": "WAGURI KAORUKO-MD — A pretty, secure, and pretty WhatsApp Multi-Device bot built for performance, scalability, and reliability.",
+  "author": "Star",
   "license": "MIT",
 
   "main": "index.js",
@@ -29,7 +29,7 @@
 
 
   "keywords": [
-    "subzero-md",
+    "waguru-md",
     "whatsapp-bot",
     "baileys",
     "multi-device",
